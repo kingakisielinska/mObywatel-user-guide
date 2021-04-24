@@ -11,7 +11,7 @@ Once you have installed the application and have registered the account, find th
 
 Now, log in page displays.
 
-![log in page](../../Github/mObywatel_UserGuide/assets/images/password.jpg)
+![log in page](assets/images/password.jpeg)
 
 Provide the password (1) and click **OK** (2).
 
