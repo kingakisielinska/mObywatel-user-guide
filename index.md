@@ -12,7 +12,7 @@ permalink: /
 This user guide provides the information and instructions needed to set up and use mObywatel application. This document includes written and visual information to assist  the user in completing tasks associated with the application, organized along workflow lines.
 
 
-![logo](./assets/images/gov.png)  
+![logo](assets/images/gov.png)
 
 # What mObywatel is?
 
