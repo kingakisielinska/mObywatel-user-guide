@@ -2,7 +2,7 @@
 layout: default
 title: Requirements and technical conditions
 parent: Installation
-nav_order: 2
+nav_order: 3
 ---
 
 # Requirements and technical conditions
