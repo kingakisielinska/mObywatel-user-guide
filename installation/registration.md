@@ -1,0 +1,75 @@
+---
+layout: default
+title: Registration
+parent: Installation
+nav_order: 4
+---
+
+# Registration
+
+Find and open the downloaded application on your mobile.
+
+This is the first view you see:
+
+[![mObywatel first view](https://res.cloudinary.com/marcomontalbano/image/upload/v1619259701/video_to_markdown/images/youtube--FkBmNepjvzQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=FkBmNepjvzQ "mObywatel first view")
+
+As you swipe right, you can see the following information:
+
+1. **Digital wallet.** 
+   mObywatel is digital wallet for documents and e-government services.
+
+2. **Many possibilities**
+   With mObywatel you can show your personal information, use eRecepta [prescription], mPrawo Jazdy [driver's licence], mPojazd [vehicle], and other functions.
+
+3. **Data in the application**
+Data are collected from state records. Downloading them requires confirming your identity with the trusted profile or your bank.
+
+4. **For students**
+You can access the card by scanning the QR code that your school or college will provide. A trusted profile is not necessary here.
+
+Now, click **Start**.
+   
+
+## Activate you account
+
+Then, you need to activate your account. First, read and accept rules and regulations.  
+
+![rules](../assets/images/activate.jpeg)  
+If you have read the rules and regulations and accept the terms and conditions, click (1) **I have read the Regulations of the public mobile mObywatel application and accept its terms** toggle and click (2) **Next**.
+
+
+## Set up a password
+![password](../assets/images/password.jpeg)
+
+Password must contain:
+- a minimum of 8 characters: [a-z]
+- a minimum of 1 lower case letter: [a-z]
+- a minimum of 1 uppercase letter: [A-Z]
+- a minimum of 1 numeric character: [0-9]
+- a minimum of 1 special character: !@#$%^&*
+
+**Please note:** If you lose your password, all data stored in the application will be lost. Password recovery is not possible.
+
+Click **Next**.
+
+The password to access the application is not stored outside of the user's smartphone. 
+
+If you lose your password, you must:
+1. Delete the application from the smartphone together with all data.
+2. Reinstall and activate the application.
+3. 
+You are required to enter the password for the application each time after:
+- a break in the use of the application of at least 5 (five) minutes,
+- restarting the application after having switched it off,
+- switching off the smartphone.
+- 
+Entering an incorrect password three times causes a temporary block of access to the Application.   
+
+
+## Set up phone name
+
+![phone name](../assets/images/phonename.jpeg)
+
+The phone name must be unique. In case the phone is lost, it is used to cancel the application. The name cannot contain special characters, only letters and numbers.
+
+Click **Next**.

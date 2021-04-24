@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../kingakisielinska.github.io"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"spellchecker.ignoreWordsList": [
+			"fullstop",
+			"inline"
+		]
+	}
+}

@@ -1,0 +1,15 @@
+name: Konto stworzone przez kingakisielinska
+title: mObywatel - user guide
+description: Technologies of Technical Communication classes, a postgraduate studies at Vistula University.
+remote_theme: kingakisielinska/just-the-docs
+
+color_scheme: light
+
+
+aux_links:
+
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "This documentation is part of the final project for the Technical Communication course at Vistula University (Warsaw)."
