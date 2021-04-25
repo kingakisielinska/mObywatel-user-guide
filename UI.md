@@ -33,6 +33,7 @@ When you click the **menu** icon in the top right corner, you see functions of t
 <img src="assets/images/hamb.png" width="300" height="450">
 
 1. **Log out** - the user logs out of the application. The pop-up window displays to confirm log out.
+
     <img src="assets/images/logout.png" width="350" height="200">
 
 2. **Home** - return to the main page of the application. 
