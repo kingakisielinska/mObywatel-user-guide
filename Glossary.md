@@ -1,6 +1,6 @@
 ---
 layout: default
-title: User interface overview
+title: Glossary
 nav_order: 2
 ---
 
