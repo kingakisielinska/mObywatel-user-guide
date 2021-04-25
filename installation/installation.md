@@ -27,3 +27,4 @@ You can download the application here:
 5. Click **Open**.  
 <img src="../assets/images/three.jpeg" width="300" height="400">
 
+The application has just downloaded.

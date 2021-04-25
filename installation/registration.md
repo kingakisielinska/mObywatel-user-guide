@@ -34,12 +34,12 @@ Now, click **Start**.
 
 Then, you need to activate your account. First, read and accept rules and regulations.  
 
-![rules](../assets/images/activate.jpeg)  
+<img src="../assets/images/activate.jpeg" width="300" height="400">  
 If you have read the rules and regulations and accept the terms and conditions, click (1) **I have read the Regulations of the public mobile mObywatel application and accept its terms** toggle and click (2) **Next**.
 
 
 ## Set up a password
-![password](../assets/images/password.jpeg)
+<img src="../assets/images/password" width="300" height="400">
 
 Password must contain:
 - a minimum of 8 characters: [a-z]
@@ -62,13 +62,13 @@ You are required to enter the password for the application each time after:
 - a break in the use of the application of at least 5 (five) minutes,
 - restarting the application after having switched it off,
 - switching off the smartphone.
-- 
+
 Entering an incorrect password three times causes a temporary block of access to the Application.   
 
 
 ## Set up phone name
 
-![phone name](../assets/images/phonename.jpeg)
+<img src="../assets/images/phonename.jpeg" width="300" height="400">
 
 The phone name must be unique. In case the phone is lost, it is used to cancel the application. The name cannot contain special characters, only letters and numbers.
 
