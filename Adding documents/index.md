@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adding documents to mObywatel
+title: Adding documents
 nav_order: 5
 has_children: true
 ---

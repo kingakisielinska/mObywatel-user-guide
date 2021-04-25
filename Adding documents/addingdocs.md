@@ -1,7 +1,7 @@
 ---
 layout: default
 title: mObywatel
-parent: Adding documents to mObywatel
+parent: Adding documents
 nav_order: 2
 ---
  
