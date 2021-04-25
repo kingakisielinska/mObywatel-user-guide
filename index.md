@@ -1,6 +1,6 @@
 ---
 layout: home
-title: mObywatel
+title: Introduction
 nav_order: 1
 description: mObywatel user guide
 permalink: /
