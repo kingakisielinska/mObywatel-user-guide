@@ -20,7 +20,7 @@ You can download the application here:
 
 1. Go to **App store** or **Google Play** on your mobile.
 2. In the search field, type **mObywatel**.  
-[<img src="../assets/images/one.jpeg" width="50%" height="50%">]
+[<img src="../assets/images/one.jpeg" width="300" height="400">]
 3. Click **mObywatel** and click the **download** icon.  
 ![download](../assets/images/two.jpeg)
 4. Wait until the application downloads.
