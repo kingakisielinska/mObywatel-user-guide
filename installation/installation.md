@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Installation of mObywatel application
-parent: Installation
+title: Installation
+parent: First steps
 nav_order: 4
 ---
 

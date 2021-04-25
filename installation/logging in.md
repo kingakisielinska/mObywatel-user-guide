@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Logging in 
-parent: Installation
+parent: First steps
 nav_order: 6
 ---
 
@@ -26,7 +26,7 @@ The password to access the application is not stored outside of the user's smart
 If you lose your password, you must:
 1. Delete the application from the smartphone together with all data.
 2. Reinstall and activate the application.
-3. 
+
 You are required to enter the password for the application each time after:
 - a break in the use of the application of at least 5 (five) minutes,
 - restarting the application after having switched it off,
