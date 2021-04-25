@@ -42,6 +42,7 @@ When you click the **menu** icon in the top right corner, you see functions of t
     <img src="assets/images/history.jpeg" width="350" height="200">
 
 4. **Technical Support** - contact information for technical support. For more information, please refer to ........ section.
+
     <img src="assets/images/tech.jpeg" width="300" height="500">
 
 5. **Regulations** - here you can view the regulations accepted during the application activation process. 
