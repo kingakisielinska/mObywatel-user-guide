@@ -73,3 +73,7 @@ Entering an incorrect password three times causes a temporary block of access to
 The phone name must be unique. In case the phone is lost, it is used to cancel the application. The name cannot contain special characters, only letters and numbers.
 
 Click **Next**.
+
+After registration, you have access to the application. This is how it should look like:
+
+[![mObywatel's interface after registration](https://res.cloudinary.com/marcomontalbano/image/upload/v1619360513/video_to_markdown/images/youtube--VYfzMeyx3Nc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/VYfzMeyx3Nc "mObywatel's interface after registration")
