@@ -12,7 +12,7 @@ You can download the application here:
 
 [<img src="../assets/images/googleplay.png" width="200">](https://play.google.com/store/apps/details?id=pl.nask.mobywatel&hl=pl&gl=pl "Redirect to Google Play")
 
-[![logo](../assets/images/appstore.png)](https://apps.apple.com/pl/app/mobywatel/id1339613469?l=pl "Redirect to App Store")
+[<img src="../assets/images/appstore.png" width="200">](https://apps.apple.com/pl/app/mobywatel/id1339613469?l=pl "Redirect to App Store")
 
 
 # How to download mObywatel app?  
@@ -20,7 +20,7 @@ You can download the application here:
 
 1. Go to **App store** or **Google Play** on your mobile.
 2. In the search field, type **mObywatel**.  
-![search](../assets/images/one.jpeg)
+<img src="../assets/images/one.jpeg" width="300" height="400>
 3. Click **mObywatel** and click the **download** icon.  
 ![download](../assets/images/two.jpeg)
 4. Wait until the application downloads.
