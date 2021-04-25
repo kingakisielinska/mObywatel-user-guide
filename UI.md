@@ -7,23 +7,7 @@ nav_order: 4
 User interface overview
 ===
 
-Once you have installed the application and have registered the account, find the application on your smartphone and open it.
-
-Now, log in page displays.
-
-<img src="assets/images/password.jpg" width="300" height="400">
-
-Provide the password (1) and click **OK** (2).
-
-If you have forgotten, the password, click **I forgot my password** (3).
-
-Then, the pop-up window is displayed with a warning message:
-
-<img src="assets/images/forgot.jpeg" width="300" height="300">
-
-For data security reasons, password reset is not possible. To use the app, uninstall it from your smartphone and reinstall it. You can set a new password the first time you run the application. For further information, please refer to [Set up a password](registration.md) section.
-
-After logging in to the application, you can see the start page.
+After logging in to the application, you can see the home page.
 
 <img src="assets/images/add.png" width="200" height="400">
 

@@ -48,22 +48,9 @@ Password must contain:
 - a minimum of 1 numeric character: [0-9]
 - a minimum of 1 special character: !@#$%^&*
 
-**Please note:** If you lose your password, all data stored in the application will be lost. Password recovery is not possible.
+**Please note:** If you lose your password, all data stored in the application will be lost. Password recovery is not possible. For further information, refer to ........ section.
 
 Click **Next**.
-
-The password to access the application is not stored outside of the user's smartphone. 
-
-If you lose your password, you must:
-1. Delete the application from the smartphone together with all data.
-2. Reinstall and activate the application.
-3. 
-You are required to enter the password for the application each time after:
-- a break in the use of the application of at least 5 (five) minutes,
-- restarting the application after having switched it off,
-- switching off the smartphone.
-
-Entering an incorrect password three times causes a temporary block of access to the Application.   
 
 
 ## Set up phone name
