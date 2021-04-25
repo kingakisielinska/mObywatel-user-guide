@@ -37,8 +37,9 @@ You **cannot** use mObywatel if your ID card is not valid - it has been blocked 
 
 # How to add documents to mObywatel?
 
-Watch the video and follow the instructions below:
+Watch the video and follow the instructions written below:
 
+[![Adding your first document](https://res.cloudinary.com/marcomontalbano/image/upload/v1619372088/video_to_markdown/images/youtube--vuAy_k1f_rw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=vuAy_k1f_rw "Adding your first document")
 
 
 To activate mObywatel, you need a arusted profile - it is needed for your application and other e-government services.
