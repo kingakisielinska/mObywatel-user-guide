@@ -46,9 +46,11 @@ To activate mObywatel, you need a arusted profile - it is needed for your applic
 
 1. Open mObywatel application. 
 2. On the home page, click **Add Your First Document**.
+
    <img src="../assets/images/addfirst.jpeg" width="200" height="400"> 
 
 3. Select **mObywatel** from the list of documents.
+
    <img src="../assets/images/doclist.jpeg" width="200" height="400"> 
 
 4. An information about processing your personal data appears:
