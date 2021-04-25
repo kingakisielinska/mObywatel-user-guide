@@ -24,7 +24,9 @@ Then, the pop-up window is displayed with a warning message:
 For data security reasons, password reset is not possible. To use the app, uninstall it from your smartphone and reinstall it. You can set a new password the first time you run the application. For further information, please refer to [Set up a password](registration.md) section.
 
 After logging in to the application, you can see the start page.
+
 <img src="assets/images/add.png" width="200" height="400">
+
 
 Here, you can add your documents. The information on adding documents is described in ............ section.
 
