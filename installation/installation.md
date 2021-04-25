@@ -10,9 +10,9 @@ mObywatel installation
 
 You can download the application here:
 
-[![logo](../assets/images/googleplay.png)](https://play.google.com/store/apps/details?id=pl.nask.mobywatel&hl=pl&gl=pl "Redirect to Google Play")
+[![logo](../assets/images/googleplay.png =100x20)](https://play.google.com/store/apps/details?id=pl.nask.mobywatel&hl=pl&gl=pl "Redirect to Google Play")
 
-[![logo](../assets/images/appstore.png)](https://apps.apple.com/pl/app/mobywatel/id1339613469?l=pl "Redirect to App Store")
+[![logo](../assets/images/appstore.png =100x20)](https://apps.apple.com/pl/app/mobywatel/id1339613469?l=pl "Redirect to App Store")
 
 
 # How to download mObywatel app?  
