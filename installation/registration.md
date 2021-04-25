@@ -7,7 +7,7 @@ nav_order: 5
 
 # Registration
 
-Find and open the downloaded application on your mobile.
+Find and open the downloaded application on your smartphone.
 
 This is the first view you see:
 
@@ -39,7 +39,7 @@ If you have read the rules and regulations and accept the terms and conditions, 
 
 
 ## Set up a password
-<img src="../assets/images/password" width="300" height="400">
+<img src="../assets/images/password.jpeg" width="300" height="400">
 
 Password must contain:
 - a minimum of 8 characters: [a-z]
