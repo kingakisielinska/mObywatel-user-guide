@@ -10,5 +10,6 @@ has_children: true
 
 This section provides information how to add ID, driver's licence, and vehicle information to this application.
 
+In order to add documents to this application, you are required to log in with your trusted profile. If you do not have trusted profile, go to ......... section.
 
 ![digital wallet](../assets/images/digitalw.png)
