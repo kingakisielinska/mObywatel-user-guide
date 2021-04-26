@@ -45,33 +45,33 @@ Watch the video and follow the instructions written below:
 1. Open mObywatel application. 
 2. On the home page, click **Add Your First Document**.
 
-   <img src="../assets/images/addfirst.jpeg" width="200" height="400"> 
+   <img src="../assets/images/addfirst.jpeg" width="190" height="400"> 
 
 3. Select **mObywatel** from the list of documents.
 
-   <img src="../assets/images/doclist.jpeg" width="200" height="400"> 
+   <img src="../assets/images/doclist.jpeg" width="190" height="400"> 
 
 4. An information about processing your personal data appears:
    - read (1) and accept (2) regulations
    - click **Next**(3)
 
-    <img src="../assets/images/personaldata.jpeg" width="200" height="400"> 
+    <img src="../assets/images/personaldata.jpeg" width="190" height="400"> 
 
 5. Now, you must choose a login method to confirm your personal data. Select the trusted profile if you have:
-- trusted profile, 
-- bank trusted profile (scroll down and choose **Log in through the bank**),
-- a temporary trusted profile.
-If you use myID - choose one of the banks available on the list.   
+   - trusted profile, 
+   - bank trusted profile (scroll down and choose **Log in through the bank**),
+   - a temporary trusted profile.  
+   - If you use myID - choose one of the banks available on the list.   
 
-    <img src="../assets/images/confirm.jpeg" width="200" height="400"> 
+    <img src="../assets/images/confirm.jpeg" width="190" height="400"> 
 
-1. Log in to the system.
-2. The data were collected. The document has been added to the application.
+6. Log in to the system.
+7. The data were collected. The document has been added to the application.
 
 
-How to verify the data?
+## How to verify the data?
 
-<img src="../assets/images/mobywatel2.jpg" width="200" height="400"> 
+   <img src="../assets/images/mobywatel2.jpg" width="190" height="400"> 
 
 1. **Background graphics** - with patterns showing wavy numerals, RP letters, graphics reminiscent of the geographical outline of Polish borders
    
