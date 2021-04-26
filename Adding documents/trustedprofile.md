@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Trusted profile
-parent: First steps
+parent: Adding documents
 nav_order: 2
 ---
 
