@@ -10,4 +10,5 @@ has_children: true
 
 This section provides information how to add ID, driver's licence, and vehicle information to this application.
 
+
 ![digital wallet](../assets/images/digitalw.png)

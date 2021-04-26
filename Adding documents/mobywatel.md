@@ -2,7 +2,7 @@
 layout: default
 title: mObywatel
 parent: Adding documents
-nav_order: 2
+nav_order: 3
 ---
  
 mObywatel
@@ -35,14 +35,12 @@ You **cannot** use mObywatel in a situation    where the law requires you to sho
 You **cannot** use mObywatel if your ID card is not valid - it has been blocked due to theft or lost, for example.   
    
 
-# How to add documents to mObywatel?
+# How to add an ID to mObywatel?
 
 Watch the video and follow the instructions written below:
 
 [![Adding your first document](https://res.cloudinary.com/marcomontalbano/image/upload/v1619372088/video_to_markdown/images/youtube--vuAy_k1f_rw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=vuAy_k1f_rw "Adding your first document")
 
-
-To activate mObywatel, you need a arusted profile - it is needed for your application and other e-government services.
 
 1. Open mObywatel application. 
 2. On the home page, click **Add Your First Document**.
@@ -67,10 +65,8 @@ If you use myID - choose one of the banks available on the list.
 
     <img src="../assets/images/confirm.jpeg" width="200" height="400"> 
 
-    If you do not have a trusted profile, click [**here**](https://www.gov.pl/web/gov/zaloz-profil-zaufany) and follow the instructions.
-
-6. Log in to the system.
-7. The data were collected. The document has been added to the application.
+1. Log in to the system.
+2. The data were collected. The document has been added to the application.
 
 
 How to verify the data?
