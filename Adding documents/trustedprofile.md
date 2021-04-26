@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Installation
+title: Trusted profile
 parent: First steps
 nav_order: 2
 ---
