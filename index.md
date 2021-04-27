@@ -38,3 +38,5 @@ To sum up, thanks to this application, the user can:
 👉 check penalty points  
 👉 show and check car data  
 👉 use school or student identity card  
+
+The user can activate the mObywatel  and download data from the Register of Personal Identity Cards and the PESEL register on no more than three smartphones. One smartphone may activate the mObywatel application and download data from the Register of Personal Cards and the PESEL register of only one user. 
