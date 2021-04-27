@@ -9,7 +9,7 @@ mPojazd
 
 The data from mPojazd reflect the data included in the registration certificate, civil liability policy, and vehicle card.
 
-The service can be used by persons who are owners or co-owners of vehicles. So those who are registered in the Central Register of Vehicles (CEP) as owners of cars, motorcycles, scooters, etc. In other words, in order to use mPojazd you have to be entered in the registration card. This means that you will not see rented, company, or leased cars in the application.
+The service can be used by persons who are owners or co-owners of vehicles. So those who are registered in the Central Register of Vehicles as owners of cars, motorcycles, scooters, etc. In other words, in order to use mPojazd you have to be entered in the registration card. This means that you will not see rented, company, or leased cars in the application.
 
 Here you will find vehicle data like make and model, year of manufacture, registration number, VIN number, date of technical inspection, odometer reading (entered by a diagnostic station or the police). The service also allows you to transfer the vehicle data in the form of QR code to other applications.
 

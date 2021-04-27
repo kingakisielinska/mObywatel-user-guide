@@ -42,7 +42,7 @@ Downloading data requires the User to log in again with the electronic identific
 <img src="../../assets/images/ptransfer.png" width="190" height="400">
 
 To provide data to a person verifying your driving license, you need to:
-1. Click **mPojazd** in the home page.
+1. Click **mPrawo Jazdy** in the home page.
 2. At the bottom of the screen, select **transfer**.
 
 A window appears informing you what personal data you are handing over, to whom and for what purpose.
