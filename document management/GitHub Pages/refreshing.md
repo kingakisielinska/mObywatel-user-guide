@@ -34,7 +34,7 @@ You can use this document:
 
 The scope of the data presented in this application includes:
 
-   <img src="../../assets/images/dowodcaly.png" width="500"> 
+![id](../../assets/images/dowodcaly.png)
 
 1. Photo
 2. First name
@@ -64,7 +64,8 @@ The **refresh** enables downloading the data again and refreshing the certificat
 
 ## Transferring data 
 
-![transfer](../../assets/images/transfer.png)
+<img src="../../assets/images/transfer.png" width="500"> 
+
 
 You can forward your online data to public or private entities (institutions) in order to benefit from the services they offer or to a person verifying identity. 
 
@@ -76,7 +77,8 @@ In order to transfer your data to an institution:
 2. At the bottom of the screen, select **transfer**.
 3. Select **transfer data to an institution or a company**.
    
-   ![transfer to an institution or a company](../../assets/images/transfer2.png)
+
+   <img src="../../assets/images/transfer2.png" width="500">
 
 4. Scan the QR code or copy it to the clipboard (QR code is available online or offline). You will see information about what data, to which institution and for what purpose will be transferred. 
 
@@ -89,14 +91,14 @@ In order to provide data to a person verifying your identity as part of the mOby
 2. At the bottom of the screen, select **transfer**.
 3. Select **transfer to a person verifying your identity**.
 
-    ![person](../../assets/images/osoba.png)
+    <img src="../../assets/images/osoba.png" width="500">
 
  A window appears informing you what personal data you are handing over, to whom and for what purpose.
 
 4. Click **Confirm** to accept the transfer.
 5. A QR code is be displayed. Give it to the person verifying your identity.
 
-    ![sharingthedata](../../assets/images/sharedata.png)
+    <img src="../../assets/images/sharedata.png" width="500">
 
 Then, a message appears asking you to confirm the purpose of the data collection.
 The app transfers the data to mWeryfikator - first and last name, low-resolution photo, ID number, and information about who issued it. The certificate status is also be displayed, which guarantees the security and validity of the data. The displayed data can be additionally verified online. 
@@ -105,7 +107,7 @@ The app transfers the data to mWeryfikator - first and last name, low-resolution
 
 By clicking **More** at the bottom of the screen, a menu with different options displays:
 
-![more options](../../assets/images/more.png)
+<img src="../../assets/images/more.png" width="500">
 
 1. **Refresh certificates** - this function enables automatic refreshing of certificates.
 2. **Issued certificates** - view of certificates issued to the user along with the validity status.
