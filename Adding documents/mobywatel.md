@@ -8,20 +8,6 @@ nav_order: 3
 mObywatel
 ===
 
-Thanks to mObywatel, you can to present and confirm your personal data in a simple way.
-
- You can use this document:
- - in trains
- - during inspections
- - during elections
- - when signing up for loyalty cards
- - when collecting registered mail at a post office
- - at the gym
- - in a store
- - at a reception desk
- - in a clinic
- - in a hotel   
-
 mObywatel uses current identity data from state registers. These are names, surnames, dates of birth, PESEL number, photo, expiration date, ID number, information on who issued the document.
 
 The data stored on the smartphone is encrypted and signed with a certificate. The certificate also confirms the authenticity of the data. You get it when you activate the application - it is assigned only to you and only to your phone.
