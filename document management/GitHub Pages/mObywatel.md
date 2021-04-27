@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 
-## mObywatel
+# mObywatel
 
 After collecting the data from the ID Cards Register and the PESEL Register, a cryptographic certificate confirming the authenticity of the collected data is automatically created and downloaded.
 The certificate is assigned to the user and user's smartphone.
@@ -86,8 +86,8 @@ Operations performed during data transfer are cryptographically encrypted, which
 
 ### Transfering data to a person verifying the identity
 
-In order to provide data to a person verifying your identity as part of the mObywatel service , you need to:
-1. Start the mObywatel service.
+To provide data to a person verifying your identity as part of the mObywatel service , you need to:
+1. Click **mObywatel** in the home page.
 2. At the bottom of the screen, select **transfer**.
 3. Select **transfer to a person verifying your identity**.
 
@@ -101,7 +101,7 @@ In order to provide data to a person verifying your identity as part of the mOby
     <img src="../../assets/images/sharedata.png" width="500">
 
 Then, a message appears asking you to confirm the purpose of the data collection.
-The app transfers the data to mWeryfikator - first and last name, low-resolution photo, ID number, and information about who issued it. The certificate status is also be displayed, which guarantees the security and validity of the data. The displayed data can be additionally verified online. 
+The app transfers the data to mWeryfikator - first and last name and low-resolution photo. The certificate status is also be displayed, which guarantees the security and validity of the data. The displayed data can be additionally verified online. 
 
 ### More options
 
@@ -112,6 +112,6 @@ By clicking **More** at the bottom of the screen, a menu with different options 
 1. **Refresh certificates** - this function enables automatic refreshing of certificates.
 2. **Issued certificates** - view of certificates issued to the user along with the validity status.
 3. **History** - this function allows you to see the history of the verification of personal data with mWeryfikator, including the user ID and the date and time of data transfer. It stores the data referred to above for 1 year from the date of its recording.
-4. **History of activity** - history of downloads and issued certificates
+4. **History of activity** - history of downloads and issued certificates.
 5. **Regulations** - displays the regulations accepted by the User.
-6. **elete the mObywatel service** - revokes the issued certificates and deletes the document. 
+6. **Delete the mObywatel service** - revokes the issued certificates and deletes the document. 
