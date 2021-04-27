@@ -34,7 +34,7 @@ You can use this document:
 
 The scope of the data presented in this application includes:
 
-   <img src="../../assets/images/dowodcaly.png" width="400"> 
+   <img src="../../assets/images/dowodcaly.png" width="500"> 
 
 1. Photo
 2. First name
