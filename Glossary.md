@@ -23,6 +23,8 @@ Glossary
 
 **mPrawo Jazdy** - digital document with a representation of your driving privileges.  
 
+**mWeryfikator** - official government application for smartphones. It allows you to easily confirm the data of a person using the mCitizen application.
+
 **Polak za granicą** - an online service of the Minister of Foreign Affairs which enables access, through the application, to information for for travellers. There are descriptions of the situation in each country, including basic information updated by the Ministry of Foreign Affairs on customs, culture and convenient ways to travel.  
 
 **User** - a person who uses the application on a smartphone

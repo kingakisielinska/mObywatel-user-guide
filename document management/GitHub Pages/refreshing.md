@@ -100,3 +100,16 @@ In order to provide data to a person verifying your identity as part of the mOby
 
 Then, a message appears asking you to confirm the purpose of the data collection.
 The app transfers the data to mWeryfikator - first and last name, low-resolution photo, ID number, and information about who issued it. The certificate status is also be displayed, which guarantees the security and validity of the data. The displayed data can be additionally verified online. 
+
+### More options
+
+By clicking **More** at the bottom of the screen, a menu with different options displays:
+
+![more options](../../assets/images/more.png)
+
+1. **Refresh certificates** - this function enables automatic refreshing of certificates.
+2. **Issued certificates** - view of certificates issued to the user along with the validity status.
+3. **History** - this function allows you to see the history of the verification of personal data with mWeryfikator, including the user ID and the date and time of data transfer. It stores the data referred to above for 1 year from the date of its recording.
+4. **History of activity** - history of downloads and issued certificates
+5. **Regulations** - displays the regulations accepted by the User.
+6. **elete the mObywatel service** - revokes the issued certificates and deletes the document. 
