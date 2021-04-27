@@ -34,7 +34,7 @@ You can use this document:
 
 The scope of the data presented in this application includes:
 
-![ID](../../assets/images/dowodcaly.png)
+   <img src="../../assets/images/dowodcaly.png" width="400"> 
 
 1. Photo
 2. First name
