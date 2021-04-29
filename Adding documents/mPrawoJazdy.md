@@ -40,7 +40,7 @@ Watch the video and follow the instructions written below:
    - read (1) and accept (2) regulations
    - click **Next** (3)
 
-    <img src="../assets/images/mprawo2.jpeg" width="190" height="400">
+    c
 
 5. Now, you must choose a login method to confirm your personal data. Select the trusted profile if you have:
    - trusted profile, 
