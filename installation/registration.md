@@ -7,6 +7,8 @@ nav_order: 6
 
 # Registration
 
+Follow the steps to register to the mObywatel app.
+
 Find and open the downloaded application on your smartphone.
 
 This is the first view you see:
@@ -15,31 +17,36 @@ This is the first view you see:
 
 As you swipe right, you can see the following information:
 
-1. **Digital wallet.** 
-   mObywatel is digital wallet for documents and e-government services.
+1. **Digital wallet.**    
+   
+   mObywatel is a digital wallet for documents and e-government services.
 
-2. **Many possibilities**
-   With mObywatel you can show your personal information, use eRecepta [prescription], mPrawo Jazdy [driver's licence], mPojazd [vehicle], and other functions.
+2. **Many possibilities**   
+   
+   With mObywatel, you can show your personal information, use eRecepta, mPrawo Jazdy, mPojazd, and other functions.
 
-3. **Data in the application**
-Data are collected from state records. Downloading them requires confirming your identity with the trusted profile or your bank.
+3. **Data in the application**   
+   
+   Data are collected from state records. Downloading them requires confirming your identity with the trusted profile or your bank.
 
 4. **For students**
-You can access the card by scanning the QR code that your school or college will provide. A trusted profile is not necessary here.
+   
+   You can access the card by scanning the QR code that your school or university provides. A trusted profile is not necessary here.
 
 Now, click **Start**.
    
 
-## Activate you account
+## Activate your account
 
 Then, you need to activate your account. First, read and accept rules and regulations.  
 
-<img src="../assets/images/activate.jpeg" width="300" height="400">  
-If you have read the rules and regulations and accept the terms and conditions, click (1) **I have read the Regulations of the public mobile mObywatel application and accept its terms** toggle and click (2) **Next**.
+<img src="../assets/images/activate.jpeg" width="220" height="400">   
+
+If you have read the rules and regulations and accept the terms and conditions, click **I have read the Regulations of the public mobile mObywatel application and accept its terms** (1) toggle and click **Next** (2).
 
 
 ## Set up a password
-<img src="../assets/images/password.jpeg" width="300" height="400">
+<img src="../assets/images/password.jpeg" width="220" height="400">
 
 Password must contain:
 - a minimum of 8 characters: [a-z]
@@ -48,16 +55,16 @@ Password must contain:
 - a minimum of 1 numeric character: [0-9]
 - a minimum of 1 special character: !@#$%^&*
 
-**Please note:** If you lose your password, all data stored in the application will be lost. Password recovery is not possible. For further information, refer to ........ section.
+**Please note:** If you lose your password, all data stored in the application will be lost. Password recovery is not possible. For further information, refer to [Logging in](installation/loggingin.md) section.
 
 Click **Next**.
 
 
 ## Set up phone name
 
-<img src="../assets/images/phonename.jpeg" width="300" height="400">
+<img src="../assets/images/phonename.jpeg" width="220" height="400">
 
-The phone name must be unique. In case the phone is lost, it is used to cancel the application. The name cannot contain special characters, only letters and numbers.
+The phone name must be unique. In case the phone is lost, it is used to cancel the application. The name cannot contain special characters, only letters, and numbers.
 
 Click **Next**.
 

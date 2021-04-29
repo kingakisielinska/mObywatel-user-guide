@@ -8,7 +8,7 @@ has_children: true
 
 # First steps in mObywatel application
 
-This section provides information on how to install this application, how to register. You will also find information about requirements and technical conditions that has to be met.
+This section provides information on how to install this application and how to register. You can also find information about requirements and technical conditions that has to be met to install mObywatel on your smartphone.
 
 ![intro](../../assets/images/intro.jpeg)
 

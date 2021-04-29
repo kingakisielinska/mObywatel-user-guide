@@ -8,6 +8,8 @@ nav_order: 5
 mObywatel installation  
 =======  
 
+Find out how to install mObywatel application.
+
 You can download the application here:
 
 [<img src="../assets/images/googleplay.png" width="200">](https://play.google.com/store/apps/details?id=pl.nask.mobywatel&hl=pl&gl=pl "Redirect to Google Play")
@@ -27,4 +29,4 @@ You can download the application here:
 5. Click **Open**.  
 <img src="../assets/images/three.jpeg" width="300" height="400">
 
-The application has just downloaded.
+The application has just been downloaded.
