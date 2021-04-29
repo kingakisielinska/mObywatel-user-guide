@@ -55,7 +55,7 @@ Password must contain:
 - a minimum of 1 numeric character: [0-9]
 - a minimum of 1 special character: !@#$%^&*
 
-**Please note:** If you lose your password, all data stored in the application will be lost. Password recovery is not possible. For further information, refer to [Logging in](installation/logging.md) section.
+**Please note:** If you lose your password, all data stored in the application will be lost. Password recovery is not possible. For further information, refer to [**Logging**](installation/logging.md) section.
 
 Click **Next**.
 
