@@ -7,14 +7,15 @@ nav_order: 4
 User interface overview
 ===
 
-After logging in to the application, you can see the home page.
+After logging in to the application, you can see the home page:
 
 <img src="assets/images/add.png" width="200" height="400">
 
 
-Here, you can add your documents. The information on adding documents is described in ............ section.
+Here, you can add your documents. The information on adding documents is described in [**Adding documents**](general.md) section.
 
-When you click the **menu** icon in the top right corner, you see functions of the main menu.
+
+When you click the **menu** icon in the top right corner, you see the functions of the main menu:
 
 <img src="assets/images/hamb.png" width="300" height="450">
 
@@ -28,7 +29,7 @@ When you click the **menu** icon in the top right corner, you see functions of t
    
     <img src="assets/images/history.jpeg" width="350" height="200">
 
-4. **Technical Support** - contact information for technical support. For more information, please refer to ........ section.
+4. **Technical Support** - contact information for technical support. For more information, please refer to [**Contact**](contact.md) section.
 
     <img src="assets/images/tech.jpeg" width="300" height="500">
 
