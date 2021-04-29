@@ -19,6 +19,8 @@ Glossary
 
 **mObywatel**- a service that allows to verify user's identity.  
 
+**PESEL** - Polish Residence Identification Number
+
 **mPojazd** - electronic document reflecting the data contained in the registration certificate, third party liability policy and vehicle card. The service can be used by persons who are owners or co-owners of vehicles. So those who are registered in the Central Register of Vehicles (CEP) as owners of cars, motorcycles, scooters, etc. In other words, to use mPojazd, you have to be entered in the registration card. This means that you will not see rented, company, or leased cars in the application.  
 
 **mPrawo Jazdy** - digital document with a representation of your driving privileges.  
@@ -27,5 +29,5 @@ Glossary
 
 **Polak za granicą** - an online service of the Minister of Foreign Affairs which enables access, through the application, to information for for travellers. There are descriptions of the situation in each country, including basic information updated by the Ministry of Foreign Affairs on customs, culture and convenient ways to travel.  
 
-**User** - a person who uses the application on a smartphone
+**User** - a person who uses the application on a smartphone.
 
