@@ -1,15 +1,19 @@
 ---
 layout: home
-title: Deleting the application
+title: Deactivating the application
 nav_order: 7
 ---
 
-Deleting the application
+Deactivating the application
 ===
 
 Deleting the application involves deactivating any added documents. 
 
 # How to delete the application?
+
+Watch the video and follow the instructions below:
+
+[![Deactivating mObywatel application](https://res.cloudinary.com/marcomontalbano/image/upload/v1619713215/video_to_markdown/images/youtube--ug6oJVjkBKA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=ug6oJVjkBKA "Deactivating mObywatel application")
 
 1. Open **mObywatel** application. 
 2. Provide your credentials and log in.
