@@ -12,7 +12,7 @@ After logging in to the application, you can see the home page:
 <img src="assets/images/add.png" width="200" height="400">
 
 
-Here, you can add your documents. The information on adding documents is described in [**Adding documents**](general.md) section.
+Here, you can add your documents. The information on adding documents is described in [**Adding documents**](Adding%20documents/general.md) section.
 
 
 When you click the **menu** icon in the top right corner, you see the functions of the main menu:
