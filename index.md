@@ -39,3 +39,35 @@ To sum up, thanks to this application, the user can:
 👉  use school or student identity card  
 
 The user can activate the mObywatel and download data from the Register of Personal Identity Cards and the PESEL register on no more than three smartphones. One smartphone may activate the mObywatel application and download data from the Register of Personal Cards and the PESEL register of only one user. 
+
+## Navigation
+
+There is a search bar at the top of the page where you can type a word of interest.
+
+On the left side, there is a navigation menu that contains the following sub-pages:
+
+1. [Introduction](index.md)
+2. [Glossary](Glossary.md)
+3. [First steps](installation/mObywatel%20instal/index.md)
+
+    - [Requirements and technical conditions](installation/requirements%20and%20technical%20conditions.md)
+    - [Installation](installation/installation.md)
+    - [Registration](installation/registration.md)
+    - [Logging](installation/logging.md)
+
+4. [User Interface overview](UI.md)
+5. [Adding documents](Adding_documents/index.md)
+
+    - [Trusted profile](Adding_documents/trustedprofile.md)
+    - [mObywatel](Adding_documents/mobywatel.md)
+    - [mPrawo Jazdy](Adding_documents/mPrawoJazdy.md)
+    - [mPojazd](Adding_documents/mPojazd.md)
+
+6. [Document management](document%20management/GitHub%20Pages/index.md)
+
+    - [mObywatel](document%20management/GitHub%20Pages/mObywatel.md)
+    - [mPrawo Jazdy](document%20management/GitHub%20Pages/mPrawoJazdy.md)
+    - [mPojazd](document%20management/GitHub%20Pages/mPojazd.md)
+
+7. [Deactivating the application](Deleting.md)
+8. [Contact](contact.md)
