@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Logging in 
+title: Logging
 parent: First steps
 nav_order: 7
 ---

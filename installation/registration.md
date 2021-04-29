@@ -55,7 +55,7 @@ Password must contain:
 - a minimum of 1 numeric character: [0-9]
 - a minimum of 1 special character: !@#$%^&*
 
-**Please note:** If you lose your password, all data stored in the application will be lost. Password recovery is not possible. For further information, refer to [Logging in](installation/loggingin.md) section.
+**Please note:** If you lose your password, all data stored in the application will be lost. Password recovery is not possible. For further information, refer to [Logging in](installation/logging.md) section.
 
 Click **Next**.
 
@@ -64,7 +64,7 @@ Click **Next**.
 
 <img src="../assets/images/phonename.jpeg" width="220" height="400">
 
-The phone name must be unique. In case the phone is lost, it is used to cancel the application. The name cannot contain special characters, only letters, and numbers.
+The phone name must be unique. In case the phone is lost, it is used to cancel the application. The name cannot contain special characters, only letters and numbers.
 
 Click **Next**.
 
