@@ -50,7 +50,7 @@ On the left side, there is a navigation menu that contains the following sub-pag
 2. [Glossary](Glossary.md)
 3. [First steps](installation/mObywatel%20instal/index.md)
 
-    - [Requirements and technical conditions](installation/requirements%20and%20technical%20conditions.md)
+    - [Requirements and technical conditions](installation/requirements.md)
     - [Installation](installation/installation.md)
     - [Registration](installation/registration.md)
     - [Logging](installation/logging.md)
@@ -63,11 +63,11 @@ On the left side, there is a navigation menu that contains the following sub-pag
     - [mPrawo Jazdy](Adding_documents/mPrawoJazdy.md)
     - [mPojazd](Adding_documents/mPojazd.md)
 
-6. [Document management](document%20management/GitHub%20Pages/index.md)
+6. [Document management](management/doc/index.md)
 
-    - [mObywatel](document%20management/GitHub%20Pages/mObywatel.md)
-    - [mPrawo Jazdy](document%20management/GitHub%20Pages/mPrawoJazdy.md)
-    - [mPojazd](document%20management/GitHub%20Pages/mPojazd.md)
+    - [mObywatel](management/doc/mObywatel.md)
+    - [mPrawo Jazdy](management/doc/mPrawoJazdy.md)
+    - [mPojazd](management/doc/mPojazd.md)
 
 7. [Deactivating the application](Deleting.md)
 8. [Contact](contact.md)
