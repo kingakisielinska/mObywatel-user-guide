@@ -8,31 +8,31 @@ nav_order: 2
 Trusted profile
 ===
 
-To activate mObywatel, you need a arusted profile - it is needed for your application and other e-government services.
+To activate mObywatel, you need a trusted profile - it is needed for this application and other e-government services.
 
-The Trusted Profile allows you to do official business online. It's method of confirming the identity of a Polish citizen in electronic administration systems. In this case, it is an alternative to a paid qualified signature. You can use it to log in to such a system and, if necessary, create an electronic signature (trusted signature), which is as effective for public entities as a handwritten signature.
+The trusted profile allows you to do official business online. It's a method of confirming the identity of a Polish citizen in electronic administration systems. In this case, it is an alternative to a paid qualified signature. You can use it to log in to such a system and, if necessary, create an electronic signature (trusted signature), which is as effective for public entities as a handwritten signature.
 
 ![trustedprofile](../assets/images/trustedprofile.png)
 
 # What can you do with a trusted profile?
 
-- Log in to an Internet Patient Account
-- Apply for an ID card
-- Check if your identity card is ready for collection 
-- Check your penalty points
-- Apply for 500+ benefits 
-- File tax declarations on the tax portal
-- Apply for a European Health Insurance Card
-- Apply for a business registration
-- Send a letter to a public entity 
+- log in to an Internet Patient Account
+- apply for an ID 
+- check if your ID is ready to be collected
+- check your penalty points
+- apply for government benefits 
+- file tax declarations on the tax portal
+- apply for a European Health Insurance Card
+- apply for a business registration
+- send a letter to a public entity 
 - handle many other official matters requiring proof of identity or an electronic signature.
 
 
 # How to set up a trusted profile?
 
-You can set up a trusted profiles in four ways.
+You can set up a trusted profile in four ways.
 
-## With your bank or other identity provider
+## With your bank or other identity providers
 
 The trusted profile can be set up in the following banking services:
 
@@ -51,7 +51,7 @@ The trusted profile can be set up in the following banking services:
 
     ![bank](../assets/images/bank.png)
 
-2. From the list, select your bank.
+2. Select your bank from the list.
 
     ![select your bank](../assets/images/bank2.png)
 
@@ -69,14 +69,14 @@ eDowód is an ID card with an electronic layer. Externally it looks similar to t
 
       ![login options](../assets/images/edowod2.png)
 
-    **Smartphone with NFC module and eDO App** (1):
-    - Open the eDO App mobile app
-    - Scan the QR code or write the number displayed under the code
-    - Follow the instructions displayed on the screen
+    **Smartphone with NFC module** and **eDO App** (1):
+    - Open the eDO App mobile app.
+    - Scan the QR code or write the number displayed under the code.
+    - Follow the instructions displayed on the screen.
    ![eDO App](../assets/images/edo.png)
 
     **NFC reader connected to computer** (2):
-    - Click **Read the instructions**
+    - Click **Read the instructions**.
     - Read and follow the instructions displayed on the screen.
   ![NFC](../assets/images/NFC.png)
 
@@ -87,8 +87,8 @@ If you do not have access to electronic banking you may also set up a trusted pr
 ![online application](../assets/images/onlineap.png)
 
 The profile set up in this way requires personal confirmation of identity. You can do this:
-- in one of the selected confirmation points (over 2 thousand places in Poland and abroad). Go to the [list](https://pz.gov.pl/pz/confirmationPointAddressesList) of confirmation points. 
-- online by selecting **video chat with an official** . During this video chat an official will ask you to confirm that the data in the application is correct and up-to-date. They will ask you to show your ID to read its content. If the whole process is successful, your trusted profile will be confirmed by the official. You will receive the confirmation of creation the trusted profile to your e-mail address.
+- in one of the selected confirmation points (over two thousand places in Poland and abroad). Go to the [list](https://pz.gov.pl/pz/confirmationPointAddressesList) of confirmation points. 
+- online by selecting **video chat with an official** . During this video chat, an official will ask you to confirm that the data in the application is correct and up-to-date. They will ask you to show your ID to read its content. If the whole process is successful, your trusted profile will be confirmed by the official. You will receive the confirmation of the of the trusted profile to your e-mail address.
 
   ![video chat](../assets/images/videochat.png)
 
@@ -108,12 +108,12 @@ By clicking **Online application**, you are redirected to a page with a registra
      - Password
      - Confirm password   
 
-      1. **personal information**:
+      2. **personal information**:
      - First name 
      - Second name 
      - Surname 
      - PESEL (Polish Resident Identification Number)   
-      1. **contact information**:
+      3. **contact information**:
      - Email address
      - Confirm e-mail address
      - Phone number

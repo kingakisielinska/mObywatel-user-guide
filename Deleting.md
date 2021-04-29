@@ -21,6 +21,7 @@ Watch the video and follow the instructions below:
 4. Click **Deactivate the application**.
 
     <img src="./assets/images/deactivate.png" width="500">
+    
 5. The pop-up window with confirming the deactivation information displays. Data and certificate cleaning is in progress. If you wish to continue, click **deactivate**. 
 
     ![data cleaning](assets/images/datacleaning.jpg)
@@ -31,5 +32,5 @@ all the data has been deleted. Click **Ok**.
     ![deleted data](assets/images/popup.jpeg)
 
 This function deletes data from the application and revokes the certificates.   
-If there is no internet connection, only the data from the application is deleted. Then, the user is informed with pop-up window and can cancel the deactivation. 
+If there is no internet connection, only the data from the application is deleted. Then, the user is informed with a pop-up window and can cancel the deactivation. 
 

@@ -12,13 +12,13 @@ mObywatel uses current identity data from state registers. These are names, surn
 
 The data stored on the smartphone is encrypted and signed with a certificate. The certificate also confirms the authenticity of the data. You get it when you activate the application - it is assigned only to you and only to your phone.
 
-Even if your phone is lost your data is safe - it is protected not only by encrypted data, but also by phone lock and password, which you choose when activating the application.
+Even if your phone is lost your data is safe - it is protected not only by encrypted data but also by phone lock and password, which you choose when activating the application.
 
 **Please note:**   
 
-You **cannot** use mObywatel in a situation    where the law requires you to show your ID card or passport (in a bank, at the airport, at a notary's, registering a SIM card, for example).  
+You **cannot** use mObywatel in a situation where the law requires you to show your ID card or passport (in a bank, at the airport, at a notary's, registering a SIM card, for example).  
 
-You **cannot** use mObywatel if your ID card is not valid - it has been blocked due to theft or lost, for example.   
+You **cannot** use mObywatel if your ID card is not valid - it has been blocked due to theft or loss, for example.   
    
 
 # How to add an ID to mObywatel?
@@ -28,8 +28,8 @@ Watch the video and follow the instructions written below:
 [![Adding your first document](https://res.cloudinary.com/marcomontalbano/image/upload/v1619372088/video_to_markdown/images/youtube--vuAy_k1f_rw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=vuAy_k1f_rw "Adding your first document")
 
 
-1. Open mObywatel application. 
-2. On the home page, click **Add Your First Document**.
+1. Open **mObywatel** application. 
+2. Click **Add Your First Document** on the home page.
 
    <img src="../assets/images/addfirst.jpeg" width="190" height="400"> 
 
@@ -39,7 +39,7 @@ Watch the video and follow the instructions written below:
 
 4. An information about processing your personal data appears:
    - read (1) and accept (2) regulations
-   - click **Next**(3)
+   - click **Next** (3)
 
     <img src="../assets/images/personaldata.jpeg" width="190" height="400"> 
 
