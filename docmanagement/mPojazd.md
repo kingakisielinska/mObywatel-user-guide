@@ -14,7 +14,7 @@ The mPojazd service also displays information about the expiration date of the t
 
 The mPojazd home screen contains the following driver data:
 
-<img src="../../assets/images/mpojazd2.jpeg" width="500">
+<img src=".././assets/images/mpojazd2.jpeg" width="500">
 
 1. On the **main screen**, basic information such as:
 - vehicle make
@@ -47,13 +47,13 @@ The mPojazd home screen contains the following driver data:
 
 ## Updating the data
 
-<img src="../../assets/images/pojupdate.jpg" width="190" height="400">
+<img src=".././assets/images/pojupdate.jpg" width="190" height="400">
 
 The **refresh** icon enables downloading the data again and refreshing the certificates issued to the user on a given device. 
 
 ## Transferring data 
 
-<img src="../../assets/images/pojtransfer.jpg" width="190" height="400">
+<img src=".././assets/images/pojtransfer.jpg" width="190" height="400">
 
 To provide the data to a person verifying your car documents:
 1. Click **mPojazd** on the home page.
@@ -64,13 +64,13 @@ A window appears informing you what personal data you are handing over, to whom,
 3. Click **I understand** to accept the transfer.
 4. A QR code is displayed. Give it to the person verifying the car documents.
 
-<img src="../../assets/images/pojatransfer.png" width="500">
+<img src=".././assets/images/pojatransfer.png" width="500">
 
 ### More options
 
 By clicking **More** at the bottom of the screen, a menu with different options displays:
 
-<img src="../../assets/images/pojahistoria.png" width="500">
+<img src=".././assets/images/pojahistoria.png" width="500">
 
 1. **Issued certificates** - view of certificates issued to the user along with the validity status.
 2. **History of activity** - history of downloads and issued certificates.

@@ -34,7 +34,7 @@ You can use this document:
 
 The scope of the data presented in this application includes:
 
-![id](../../assets/images/dowodcaly.png)
+![id](.././assets/images/dowodcaly.png)
 
 1. Photo
 2. First name
@@ -58,13 +58,13 @@ The scope of the data presented in this application includes:
 
 ## Updating the data
 
-<img src="../../assets/images/refresh.jpeg" width="190" height="400"> 
+<img src=".././assets/images/refresh.jpeg" width="190" height="400"> 
 
 The **refresh** icon enables downloading the data again and refreshing the certificates issued to the user on a given device. 
 
 ## Transferring data 
 
-<img src="../../assets/images/transfer.png" width="500"> 
+<img src=".././assets/images/transfer.png" width="500"> 
 
 
 You can forward your online data to public or private entities (institutions) in order to benefit from the services they offer or to a person verifying identity. 
@@ -79,7 +79,7 @@ To transfer your data to an institution:
 3. Select **transfer data to an institution or a company**.
    
 
-   <img src="../../assets/images/transfer2.png" width="500">
+   <img src=".././assets/images/transfer2.png" width="500">
 
 4. Scan the QR code or copy it to the clipboard (QR code is available online or offline). Then, you see information about what data, to which institution, and for what purpose will be transferred. 
 
@@ -92,14 +92,14 @@ To provide data to a person verifying your identity as part of the mObywatel ser
 2. Select **transfer** at the bottom of the screen.
 3. Select **transfer to a person verifying your identity**.
 
-    <img src="../../assets/images/osoba.png" width="500">
+    <img src=".././assets/images/osoba.png" width="500">
 
  A window appears informing you what personal data you are handing over, to whom, and for what purpose.
 
 4. Click **Confirm** to accept the transfer.
 5. A QR code is displayed. Give it to the person verifying your identity.
 
-    <img src="../../assets/images/sharedata.png" width="500">
+    <img src=".././assets/images/sharedata.png" width="500">
 
 Then, a message appears asking you to confirm the purpose of the data collection.
 The app transfers the data to mWeryfikator - first and last name and low-resolution photo. The certificate status is also be displayed, which guarantees the security and validity of the data. The displayed data can be additionally verified online. 
@@ -108,7 +108,7 @@ The app transfers the data to mWeryfikator - first and last name and low-resolut
 
 By clicking **More** at the bottom of the screen, a menu with different options displays:
 
-<img src="../../assets/images/more.png" width="500">
+<img src=".././assets/images/more.png" width="500">
 
 1. **Refresh certificates** - this function enables the automatic refresh of certificates.
 2. **Issued certificates** - view of certificates issued to the user along with the validity status.

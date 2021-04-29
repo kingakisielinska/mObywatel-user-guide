@@ -9,7 +9,7 @@ nav_order: 2
 
 The mPrawo Jazdy home screen contains the following driver data:
 
-<img src="../../assets/images/prawo.png" width="500"> 
+<img src=".././assets/images/prawo.png" width="500"> 
 
 1. First name
 2. Surname
@@ -32,14 +32,14 @@ The mPrawo Jazdy home screen contains the following driver data:
 
 ## Updating the data
 
-<img src="../../assets/images/pupdate.jpeg" width="190" height="400">
+<img src=".././assets/images/pupdate.jpeg" width="190" height="400">
 
 This function enables downloading user data again.
 Downloading data requires the user to log in again with the electronic identification means (trusted profile, for example) issued in the electronic identification system.
 
 ## Transferring data 
 
-<img src="../../assets/images/ptransfer.png" width="190" height="400">
+<img src=".././assets/images/ptransfer.png" width="190" height="400">
 
 To provide data to a person verifying your driving license, you need to:
 1. Click **mPrawo Jazdy** on the home page.
@@ -50,7 +50,7 @@ A window appears informing you what personal data you are handing over, to whom,
 3. Click **Confirm** to accept the transfer.
 4. A QR code is displayed. Give it to the person verifying your driving license.
 
-<img src="../../assets/images/pqr.png" width="500">
+<img src=".././assets/images/pqr.png" width="500">
 
 
 ### Penalty points
@@ -64,13 +64,13 @@ To check your penalty points:
    - If you have penalty points, the number of points, days to expire, and details of the traffic violation are displayed.
    - If you have no penalty points, the information that you are not in the system is displayed.
 
-<img src="../../assets/images/punktykarne.png" width="500">
+<img src=".././assets/images/punktykarne.png" width="500">
 
 ### More options
 
 By clicking **More** at the bottom of the screen, a menu with different options displays:
 
-<img src="../../assets/images/phistoria.png" width="500">
+<img src=".././assets/images/phistoria.png" width="500">
 
 1. **History** - this function allows you to see the history of the verification of personal data with mWeryfikator, including the user ID and the date and time of data transfer. It stores the data referred to above for 1 year from the date of its recording.
 2. **Issued certificates** - view of certificates issued to the user along with the validity status.

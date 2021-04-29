@@ -10,4 +10,4 @@ has_children: true
 In this section, you can find information about managing your documents and functions available within the mObywatel application.
 
 
-![managing the data](../../assets/images/managing.png)
+![managing the data](.././assets/images/managing.png)
