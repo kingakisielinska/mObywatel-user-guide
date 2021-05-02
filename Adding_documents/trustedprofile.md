@@ -47,7 +47,7 @@ The trusted profile can be set up in the following banking services:
 - and in over 300 cooperative banks and in Envelo - Polish Post service
 
 
-1. To confirm your trusted profile using your online banking, go to this [website](https://pz.gov.pl/pz/registerMainPage) and select **Bank or other identity provider**.
+1. To confirm your trusted profile using your online banking, go to [register home page](https://pz.gov.pl/pz/registerMainPage) and select **Bank or other identity provider**.
 
     ![bank](../assets/images/bank.png)
 
@@ -61,7 +61,7 @@ Follow the displayed instructions on your bank's website.
 
 eDowód is an ID card with an electronic layer. Externally it looks similar to the identity card issued so far. The only new information on the front side of the document is the CAN number. It is also written in a bar code on the other side. You will need this number if you want to use the electronic functions of the e-card. 
 
-1. To confirm your trusted profile using your online banking, go to this [website](https://pz.gov.pl/pz/registerMainPage) and select **eDowód**.
+1. To confirm your trusted profile using your online banking, go to [register main page](https://pz.gov.pl/pz/registerMainPage) and select **eDowód**.
 
     ![edowod](../assets/images/edowod.png)
 

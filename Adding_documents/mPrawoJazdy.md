@@ -63,4 +63,4 @@ Watch the video and follow the instructions written below:
 5. Real-time date **and time**.
 
 
-If there is a discrepancy in the data, go to [this](https://www.gov.pl/web/gov/zglos-rozbieznosc-w-danych-prawa-jazdy) page and report it electronically by filling out the form.
+If there is a discrepancy in the data, open [this](https://www.gov.pl/web/gov/zglos-rozbieznosc-w-danych-prawa-jazdy) page and report it electronically by filling out the form.
