@@ -28,11 +28,11 @@ To contact the technical support:
 
    2. **Identity authentication** - here, you can report an error when logging in with your trusted profile or a bank. You can **call the helpline** (A) or **send a message** describing the problem with details.
 
-       <img src="assets/images/errortp.jpg" width="210" height="400">
+      <img src="assets/images/errortp.jpg" width="210" height="400">
 
    3. **Application development** - here, you can submit your idea for the development of the mObywatel application by **sending a message** (A).
 
-       <img src="assets/images/rozwoj.jpg" width="210" height="400">
+      <img src="assets/images/rozwoj.jpg" width="210" height="400">
 
  
 
