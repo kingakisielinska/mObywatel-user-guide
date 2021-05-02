@@ -20,7 +20,7 @@ The mObywatel application is implemented by the Ministry of Digital Affairs.
 
 This application's goal is to enable the replacement of a plastic ID, driver's license, and other documents with a mobile application.
 
-The main module of the application is mObywatel, meaning the information that can also be found on an ID card (including its number and expiration date). However, it is not equivalent to a physical document - you can use it to confirm your identity at a post office when receiving registered mail, but not at a bank or notary.
+The main module of the application is mObywatel, meaning the information that can also be found on an ID card, including its serial number and expiration date. However, it is not equivalent to a physical document - you can use it to confirm your identity at a post office when receiving registered mail, but not at a bank or notary.
 
 Moreover, students can keep their school IDs and student card in the mObywatel application. Drivers can use the mPojazd module which displays information from the registration card of the (co-)owned vehicle and information about the mandatory third party insurance.
 

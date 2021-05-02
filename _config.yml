@@ -6,7 +6,7 @@ remote_theme: kingakisielinska/just-the-docs
 color_scheme: light
 
 
-aux_links:
+aux_links: target="_blank"
 
 
 back_to_top: true
