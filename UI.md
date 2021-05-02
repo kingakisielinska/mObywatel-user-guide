@@ -15,7 +15,7 @@ After logging in to the application, you can see the home page:
 Here, you can add your documents. The information on adding documents is described in [**Adding documents**](Adding_documents/index.md) section.
 
 
-When you click the **menu** icon in the top right corner, you see the functions of the main menu:
+When you click the **menu** icon (2) in the top right corner, you see the functions of the main menu:
 
 <img src="assets/images/hamb.png" width="300" height="450">
 
