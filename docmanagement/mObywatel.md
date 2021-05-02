@@ -89,7 +89,7 @@ Operations performed during data transfer are cryptographically encrypted, which
 
 To provide data to a person verifying your identity as part of the mObywatel service, you need to:
 1. Click **mObywatel** on the home page.
-2. Select **transfer** at the bottom of the screen.
+2. Select **transfer** at the bottom of the screen. 
 3. Select **transfer to a person verifying your identity**.
 
     <img src=".././assets/images/osoba.png" width="500">
@@ -110,9 +110,9 @@ By clicking **More** at the bottom of the screen, a menu with different options 
 
 <img src=".././assets/images/more.png" width="500">
 
-1. **Refresh certificates** - this function enables the automatic refresh of certificates.
-2. **Issued certificates** - view of certificates issued to the user along with the validity status.
+1. **Refresh certificates** - this function enables the automatic refresh of certificates.   
+2. **Issued certificates** - view of certificates issued to the user along with the validity status.   
 3. **History** - this function allows you to see the history of the verification of personal data with mWeryfikator, including the user ID and the date and time of data transfer. It stores the data referred to above for 1 year from the date of its recording.
-4. **History of activity** - history of downloads and issued certificates.
-5. **Terms and conditions** - displays the regulations accepted by the user.
-6. **Delete the mObywatel service** - revokes the issued certificates and deletes the document. 
+4. **History of activity** - history of downloads and issued certificates.   
+5. **Terms and conditions** - displays the regulations accepted by the user.   
+6. **Delete the mObywatel service** - revokes the issued certificates and deletes the document.   

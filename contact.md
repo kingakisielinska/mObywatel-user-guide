@@ -12,9 +12,9 @@ Contact information
 To contact the technical support:
 
 1. Open **mObywatel** application. 
-2. Provide your credentials and log in.
-3. Click **menu** icon at the top right corner of the screen.
-4. Click **Technical support**.
+2. Provide your credentials and log in. 
+3. Click **menu** icon at the top right corner of the screen. 
+4. Click **Technical support**. 
 
    <img src="./assets/images/technical.png" width="500">
 
