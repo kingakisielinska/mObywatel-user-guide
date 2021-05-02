@@ -57,11 +57,11 @@ The trusted profile can be set up in the following banking services:
 
 Follow the displayed instructions on your bank's website.
 
-## Using eDowód
+## Using e-dowód
 
-eDowód is an ID card with an electronic layer. Externally it looks similar to the identity card issued so far. The only new information on the front side of the document is the CAN number. It is also written in a bar code on the other side. You will need this number if you want to use the electronic functions of the e-card. 
+e-dowód is an ID card with an electronic layer. Externally it looks similar to the identity card issued so far. The only new information on the front side of the document is the CAN number. It is also written in a bar code on the other side. You will need this number if you want to use the electronic functions of the e-card. 
 
-1. To confirm your trusted profile using your online banking, go to [register main page](https://pz.gov.pl/pz/registerMainPage) and select **eDowód**.
+1. To confirm your trusted profile using your online banking, go to [register main page](https://pz.gov.pl/pz/registerMainPage) and select **e-dowód**.
 
     ![edowod](../assets/images/edowod.png)
 
@@ -70,7 +70,7 @@ eDowód is an ID card with an electronic layer. Externally it looks similar to t
       ![login options](../assets/images/edowod2.png)
 
     **Smartphone with NFC module** and **eDO App** (1):
-    - Open the eDO App mobile app.
+    - Open the **eDO App** mobile app.
     - Scan the QR code or write the number displayed under the code.
     - Follow the instructions displayed on the screen.
    ![eDO App](../assets/images/edo.png)
@@ -82,7 +82,7 @@ eDowód is an ID card with an electronic layer. Externally it looks similar to t
 
 ## Online application
 
-If you do not have access to electronic banking you may also set up a trusted profile by selecting **Online application**. 
+If you do not have access to electronic banking, you may also set up a trusted profile by selecting **Online application**. 
 
 ![online application](../assets/images/onlineap.png)
 

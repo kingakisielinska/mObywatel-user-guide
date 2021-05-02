@@ -31,7 +31,7 @@ Watch the video and follow the instructions written below:
    <img src="../assets/images/pojazdm.jpg" width="250" height="400"> 
 
 4. An information about processing your personal data appears:
-   - read (1) and accept (2) regulations
+   - read (1) and accept (2) terms and conditions
    - click **Next** (3)
 
     <img src="../assets/images/mregula.jpeg" width="190" height="400">

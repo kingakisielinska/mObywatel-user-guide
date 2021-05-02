@@ -74,5 +74,5 @@ By clicking **More** at the bottom of the screen, a menu with different options 
 
 1. **Issued certificates** - view of certificates issued to the user along with the validity status.
 2. **History of activity** - history of downloads and issued certificates.
-3. **Regulations** - displays the regulations accepted by the user.
+3. **Terms and conditions** - displays the regulations accepted by the user.
 6. **Delete the mPojazd service** - revokes the issued certificates and deletes the document. 

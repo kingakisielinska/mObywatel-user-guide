@@ -38,11 +38,11 @@ Now, click **Start**.
 
 ## Activate your account
 
-Then, you need to activate your account. First, read and accept rules and regulations.  
+Then, you need to activate your account. First, read and accept terms and conditions.  
 
 <img src="../assets/images/activate.jpeg" width="220" height="400">   
 
-If you have read the rules and regulations and accept the terms and conditions, click **I have read the Regulations of the public mobile mObywatel application and accept its terms** (1) toggle and click **Next** (2).
+If you have read the terms and conditions and accept the rules, click **I have read the Regulations of the public mobile mObywatel application and accept its terms** (1) toggle and click **Next** (2).
 
 
 ## Set up a password

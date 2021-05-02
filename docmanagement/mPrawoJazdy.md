@@ -75,5 +75,5 @@ By clicking **More** at the bottom of the screen, a menu with different options 
 1. **History** - this function allows you to see the history of the verification of personal data with mWeryfikator, including the user ID and the date and time of data transfer. It stores the data referred to above for 1 year from the date of its recording.
 2. **Issued certificates** - view of certificates issued to the user along with the validity status.
 3. **History of activity** - history of downloads and issued certificates.
-4. **Regulations** - displays the regulations accepted by the user.
+4. **Terms and conditions** - displays the regulations accepted by the user.
 6. **Delete the mPrawo Jazdy service** - revokes the issued certificates and deletes the document. 

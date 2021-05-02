@@ -42,7 +42,7 @@ The application supports biometric login. This login method is additionally prot
 
 To activate biometric authentication, the user has to:
 - choose an appropriate option in the main menu of the application
-- read the description of this functionality and accept terms and regulations
+- read the description of this functionality and accept terms and conditions
 - enter the current application password
 - set a PIN
 - put a finger on the fingerprint scanner on the smartphone, use the FaceID or Face Unlock function

@@ -33,7 +33,7 @@ When you click the **menu** icon (2) in the top right corner, you see the functi
 
     <img src="assets/images/tech.jpeg" width="300" height="500">
 
-5. **Regulations** - here you can view the regulations accepted during the application activation process. 
+5. **Terms and conditions** - here you can view the regulations accepted during the application activation process. 
    
    <img src="assets/images/regulations.jpeg" width="350" height="400">
 
