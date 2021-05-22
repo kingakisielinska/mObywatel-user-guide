@@ -38,7 +38,7 @@ Watch the video and follow the instructions written below:
    <img src="../assets/images/doclist.jpeg" width="190" height="400"> 
 
 4. An information about processing your personal data appears:
-   - read (1) and accept (2) terms and conditions
+   - read (1) and accept (2) **terms and conditions**
    - click **Next** (3)
 
     <img src="../assets/images/personaldata.jpeg" width="190" height="400"> 

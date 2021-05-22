@@ -38,7 +38,7 @@ Now, click **Start**.
 
 ## Activate your account
 
-Then, you need to activate your account. First, read and accept terms and conditions.  
+Then, you need to activate your account. First, read and accept **terms and conditions**.  
 
 <img src="../assets/images/activate.jpeg" width="220" height="400">   
 

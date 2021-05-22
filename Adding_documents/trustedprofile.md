@@ -61,7 +61,7 @@ Follow the displayed instructions on your bank's website.
 
 e-dowód is an ID card with an electronic layer. Externally it looks similar to the identity card issued so far. The only new information on the front side of the document is the CAN number. It is also written in a bar code on the other side. You will need this number if you want to use the electronic functions of the e-card. 
 
-1. To confirm your trusted profile using your online banking, go to [register main page](https://pz.gov.pl/pz/registerMainPage) and select **e-dowód**.
+1. To confirm your trusted profile using your online banking, go to [register home page](https://pz.gov.pl/pz/registerMainPage) and select **e-dowód**.
 
     ![edowod](../assets/images/edowod.png)
 
@@ -87,7 +87,7 @@ If you do not have access to electronic banking, you may also set up a trusted p
 ![online application](../assets/images/onlineap.png)
 
 The profile set up in this way requires personal confirmation of identity. You can do this:
-- in one of the selected confirmation points (over two thousand places in Poland and abroad). Go to the [list](https://pz.gov.pl/pz/confirmationPointAddressesList) of confirmation points. 
+- in one of the selected confirmation points (over two thousand places in Poland and abroad). Go to the [list of confirmation points.](https://pz.gov.pl/pz/confirmationPointAddressesList)
 - online by selecting **video chat with an official** . During this video chat, an official will ask you to confirm that the data in the application is correct and up-to-date. They will ask you to show your ID to read its content. If the whole process is successful, your trusted profile will be confirmed by the official. You will receive the confirmation of the of the trusted profile to your e-mail address.
 
   ![video chat](../assets/images/videochat.png)
@@ -108,12 +108,12 @@ By clicking **Online application**, you are redirected to a page with a registra
      - Password
      - Confirm password   
 
-      2. **personal information**:
+      1. **personal information**:
      - First name 
      - Second name 
      - Surname 
      - PESEL (Polish Resident Identification Number)   
-      3. **contact information**:
+      1. **contact information**:
      - Email address
      - Confirm e-mail address
      - Phone number

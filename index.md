@@ -24,9 +24,9 @@ The main module of the application is mObywatel, meaning the information that ca
 
 Moreover, students can keep their school IDs and student card in the mObywatel application. Drivers can use the mPojazd module which displays information from the registration card of the (co-)owned vehicle and information about the mandatory third party insurance.
 
-A feature such as eRecepta (thanks to it, you do not have to say your PESEL in a pharmacy each time at the counter to protect your privacy) and mPrawo Jazdy module with a function to check the number of penalty points.
+A feature such as eRecepta - thanks to it, you do not have to say your PESEL in a pharmacy each time to protect your privacy and mPrawo Jazdy module with a function to check the number of penalty points.
 
-Moreover, mObywatel offers the module Polak za granicą (you can check information about countries around the world that you should know before traveling) and Koronawirus - informator.
+Moreover, mObywatel offers the Polak za granicą module where you can check information about countries around the world that you should know before traveling and Koronawirus - informator module with information concerning COVID-19 situation.
 
 To sum up, thanks to this application, the user can:  
 
