@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Registration
-parent: First steps
+parent: Getting started
 nav_order: 6
 ---
 

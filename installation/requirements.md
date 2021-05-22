@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Requirements and technical conditions
-parent: First steps
+parent: Getting started
 nav_order: 4
 ---
 

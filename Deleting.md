@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Deactivating the application
-nav_order: 7
+nav_order: 6
 ---
 
 Deactivating the application

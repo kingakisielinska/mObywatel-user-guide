@@ -1,7 +1,7 @@
 ---
 layout: default
 title: mPojazd
-parent: Document management
+parent: Managing documents
 nav_order: 3
 ---
  

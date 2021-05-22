@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Glossary
-nav_order: 2
+nav_order: 7
 ---
 
 Glossary

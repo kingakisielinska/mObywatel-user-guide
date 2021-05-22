@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Document management
-nav_order: 6
+title: Managing documents
+nav_order: 5
 has_children: true
 ---
 

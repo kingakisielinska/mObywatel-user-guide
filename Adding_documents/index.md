@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adding documents
-nav_order: 5
+nav_order: 4
 has_children: true
 ---
 

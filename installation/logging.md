@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Logging
-parent: First steps
+parent: Getting started
 nav_order: 7
 ---
 

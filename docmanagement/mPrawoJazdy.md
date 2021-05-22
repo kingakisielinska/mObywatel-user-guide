@@ -1,7 +1,7 @@
 ---
 layout: default
 title: mPrawo Jazdy
-parent: Document management
+parent: Managing documents
 nav_order: 2
 ---
  

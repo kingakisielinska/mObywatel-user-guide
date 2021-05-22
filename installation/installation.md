@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Installation
-parent: First steps
+parent: Getting started
 nav_order: 5
 ---
 
