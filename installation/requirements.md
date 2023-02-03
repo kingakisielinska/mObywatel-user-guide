@@ -12,18 +12,18 @@ This section contains information on the requirements and technical conditions o
 ## Technical requirements for smartphones:
 
 - Android operating system version 6.0 or higher, or iOS version 12.4 or higher
-- access to Google Play or App Store
-- at least 100 MB of free memory space for this application
-- operating system without any modifications, especially those that are based on breaking the security of the smartphone manufacturer or the operating system manufacturer (jailbreaking or rooting)
+- Access to Google Play or App Store
+- At least 100 MB of free memory space for this application
+- Operating system without any modifications, especially those that are based on breaking the security of the smartphone manufacturer or the operating system manufacturer (jailbreaking or rooting)
 - Bluetooth connectivity
 - Internet connection
-- camera
+- Camera
 
 ## Application access requirements to smartphone resources, specifically:
 - Internet
-- camera
-- phone service - to determine the device identifier
-- device identifier and connection information
+- Camera
+- Phone service - to determine the device identifier
+- Device identifier and connection information
 
 
 
